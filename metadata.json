@@ -1,0 +1,37 @@
+{
+  "name": "sharx #7244",
+  "symbol": "SHARX",
+  "description": "Evolve, Plug in, Switch on, Join the Hunt & Stake your Claim on the Future - Now. Bounty Hunters are a collection of 8000 unique NFT's on the solana blockchain",
+  "seller_fee_basis_points": 200,
+  "image": "https://arweave.net/jnlWk8NXbZ0Dhj2BgJlep8-3aUIJKM6EHzrwFENCVe4?ext=png",
+  "attributes": [
+   {
+      "trait_type": "attributeCount",
+      "value": 1
+    },
+    {
+      "trait_type": "Background",
+      "value": "gradient - watermelon"
+    },
+    {
+      "trait_type": "Body",
+      "value": "minimalist - albino"
+    },
+    {
+      "trait_type": "Makeup",
+      "value": "None"
+    },
+    {
+      "trait_type": "Face",
+      "value": "pout - puppy"
+    }
+    ],
+    "category": "image",
+    "creators": [
+      {
+        "address": "8CA6cwo9PpqUsDB8WU4vB5eFJYRv3cA3kYyrGy2p5iAZ",
+        "share": 100
+      }
+    ]
+  }
+
